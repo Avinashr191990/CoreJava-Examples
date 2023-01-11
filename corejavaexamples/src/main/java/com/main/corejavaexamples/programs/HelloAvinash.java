@@ -1,4 +1,4 @@
-package com.main.corejavaexamples.hello;
+package com.main.corejavaexamples.programs;
 
 public class HelloAvinash {
 

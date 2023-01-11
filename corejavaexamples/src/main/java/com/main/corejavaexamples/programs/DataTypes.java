@@ -1,4 +1,4 @@
-package com.main.corejavaexamples.hello;
+package com.main.corejavaexamples.programs;
 /*
 Data Type	Default Value	Default size
 boolean	    false	        1 bit
